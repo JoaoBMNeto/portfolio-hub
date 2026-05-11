@@ -1,2 +1,2 @@
-# portifolio-hub
-Repositório de projetos acadêmicos e pessoais
+git clone https://github.com/SEU_USUARIO/portfolio-hub.git
+cd portfolio-hub
